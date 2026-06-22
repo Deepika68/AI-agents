@@ -14,5 +14,24 @@ The system combines DuckDuckGo search with prompt engineering techniques to perf
 
 - Retrieval-Augmented Generation (RAG)
 
-- LLM Integration (Gemini/Groq)
+- LLM Integration (Groq)
+- 
+## Tech Stack
 
+- Python
+- DuckDuckGo Search (DDGS)
+- Groq API
+- Gemini API
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+
+## Future Enhancements
+
+- Conversation Memory
+- Tool Routing
+- LangGraph Workflow Orchestration
+- Multi-Agent Systems
+- Vector Databases
+- Document-based RAG
+- Multimodal AI
+- Agentic Workflows
